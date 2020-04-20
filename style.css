@@ -1,6 +1,6 @@
 body {
   position: relative;
-  font-size: 10px;
+  font-size: 15px;
   font-family: 'Courier New', serif;
   background-color: lightgrey;
   margin: 100px;
@@ -16,5 +16,41 @@ p {
   font-family: 'Courier New', serif;
   font-size: 15px;
   color: black;
-  text-indent: 20px;
+}
+
+.white {
+  color:white;
+  font-weight: bold;
+  font-family: 'Papyrus';
+  text-align: center;
+  font-size: 25px;
+}
+
+.iyearned {
+  position: relative;
+  margin-top:-60px;
+  margin-bottom: -50px;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  color: lightgrey;
+  padding: 10px;
+  justify-content: center;
+  text-align: center;
+}
+.blocks {
+  position: relative;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  max-width: 70px;
+  margin: 3px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: black;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Papyrus';
+  opacity: 50%;
 }
