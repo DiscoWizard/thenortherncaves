@@ -54,3 +54,18 @@ p {
   font-family: 'Papyrus';
   opacity: 50%;
 }
+
+.twobox{
+  position: relative;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+}
+.two {
+  position: relative;
+  width:50%;
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  font-weight: bold;
+}
