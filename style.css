@@ -142,143 +142,174 @@ a {
   color: white;
   margin: 10px;
   height: 2000px;
+  line-height: 25px;
 }
 
 .first {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 0px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .imagine {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 100px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .nowadd {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 200px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .iwasaw {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 300px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .nowwhy {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 400px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .thelower {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 500px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .thehigher {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 600px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .oncethe {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 700px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .producing {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 800px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .thatproducing {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 900px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .thati {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 1000px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .itwasthis {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 1100px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .itwasclear {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 1200px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .butlodown {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 1300px;
   left: 0px;
+  letter-spacing: -5px;
 }
 .whileaaron {
   position: absolute;
-  width: 50%;
+  width: 45%;
   top: 1400px;
   left: 0px;
+  letter-spacing: -5px;
 }
 
 .first:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .imagine:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .nowadd:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .iwasaw:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .nowwhy:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .thelower:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .thehigher:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .oncethe:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .producing:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .thatproducing:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .thati:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .itwasthis:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .itwasclear:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .butlodown:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 .whileaaron:hover {
   left: 50%;
+  letter-spacing: normal;
 }
 
 
