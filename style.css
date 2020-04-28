@@ -141,8 +141,15 @@ a {
   position: relative;
   color: white;
   margin: 10px;
-  height: 2000px;
+  height: 1100px;
   line-height: 25px;
+}
+.fuckening > ::before {
+    content: "***";
+    position: absolute;
+    left: 0;
+    width: 95vw;
+    text-align: center;
 }
 
 .first {
@@ -155,98 +162,98 @@ a {
 .imagine {
   position: absolute;
   width: 45%;
-  top: 100px;
+  top: 50px;
   left: 0px;
   letter-spacing: -5px;
 }
 .nowadd {
   position: absolute;
   width: 45%;
-  top: 200px;
+  top: 100px;
   left: 0px;
   letter-spacing: -5px;
 }
 .iwasaw {
   position: absolute;
   width: 45%;
-  top: 300px;
+  top: 150px;
   left: 0px;
   letter-spacing: -5px;
 }
 .nowwhy {
   position: absolute;
   width: 45%;
-  top: 400px;
+  top: 200px;
   left: 0px;
   letter-spacing: -5px;
 }
 .thelower {
   position: absolute;
   width: 45%;
-  top: 500px;
+  top: 250px;
   left: 0px;
   letter-spacing: -5px;
 }
 .thehigher {
   position: absolute;
   width: 45%;
-  top: 600px;
+  top: 300px;
   left: 0px;
   letter-spacing: -5px;
 }
 .oncethe {
   position: absolute;
   width: 45%;
-  top: 700px;
+  top: 350px;
   left: 0px;
   letter-spacing: -5px;
 }
 .producing {
   position: absolute;
   width: 45%;
-  top: 800px;
+  top: 400px;
   left: 0px;
   letter-spacing: -5px;
 }
 .thatproducing {
   position: absolute;
   width: 45%;
-  top: 900px;
+  top: 450px;
   left: 0px;
   letter-spacing: -5px;
 }
 .thati {
   position: absolute;
   width: 45%;
-  top: 1000px;
+  top: 500px;
   left: 0px;
   letter-spacing: -5px;
 }
 .itwasthis {
   position: absolute;
   width: 45%;
-  top: 1100px;
+  top: 550px;
   left: 0px;
   letter-spacing: -5px;
 }
 .itwasclear {
   position: absolute;
   width: 45%;
-  top: 1200px;
+  top: 600px;
   left: 0px;
   letter-spacing: -5px;
 }
 .butlodown {
   position: absolute;
   width: 45%;
-  top: 1300px;
+  top: 650px;
   left: 0px;
   letter-spacing: -5px;
 }
 .whileaaron {
   position: absolute;
   width: 45%;
-  top: 1400px;
+  top: 700px;
   left: 0px;
   letter-spacing: -5px;
 }
@@ -316,7 +323,8 @@ a {
 
 .decor {
   position: relative;
-  top: 1700px;
+  bottom: 200px;
+  color: white;
 }
 
 
